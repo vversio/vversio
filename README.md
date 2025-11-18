@@ -26,7 +26,7 @@
 </p>
 
 <p align='center'>
-  Aspiring Software Engineer | Machine Learning & Computer Vision Enthusiast
+  Aspiring AI/ML Engineer
 </p>
 
 ---
