@@ -9,7 +9,7 @@
   <a href="mailto:panganiban.fvj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/vversio">
+  <a href="https://vversio.github.io/panganibanfv.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
