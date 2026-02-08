@@ -22,7 +22,7 @@
 </h1>
 
 <p align="center"> 
-  A Computer Science student at De La Salle University – Dasmariñas, currently building scalable software and machine learning solutions with a passion for AI in healthcare and accessibility.
+  A Computer Science student at De La Salle University – Dasmariñas, currently building scalable software and machine learning solutions with a passion for AI in automation and accessibility.
 </p>
 
 <p align='center'>
