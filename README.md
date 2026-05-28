@@ -1,5 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlvem1vOHN3MzRndGFhNWE3NDBzNDk4ZWNhdnB4eW1kOG9ua29ncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="200"/>
+  <div align="right" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; margin: 10px 0;">
+  <div style="background-color: #007aff; color: white; display: inline-block; padding: 10px 16px; border-radius: 20px 20px 4px 20px; max-width: 60%; text-align: left; font-size: 16px; line-height: 1.4; box-shadow: 0 1px 2px rgba(0,0,0,0.1); position: relative; margin-right: 8px;">
+    hallo, i'm vince
+  </div>
+</div>
 </div>
 
 <div id="badges" align="center">
