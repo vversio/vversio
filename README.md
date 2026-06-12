@@ -16,13 +16,15 @@
 
 ---
 
+<h1 align='center'>
+  Aspiring Data Engineer and AI Engineer
+</h1>
+
+
 <p align="left"> 
-  A Computer Science student at De La Salle University – Dasmariñas, currently building scalable software and machine learning solutions with a passion for AI in automation and accessibility.
+  A Computer Science student at De La Salle University – Dasmariñas, currently building scalable software and AI integrated solutions with a passion for automation and data accessibility.
 </p>
 
-<p align='left'>
-  Aspiring AI/ML Engineer
-</p>
 
 ---
 
