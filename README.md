@@ -16,11 +16,6 @@
 
 ---
 
-<h1 align="left">
-  Hey there, I'm Francis Vincent
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <p align="left"> 
   A Computer Science student at De La Salle University – Dasmariñas, currently building scalable software and machine learning solutions with a passion for AI in automation and accessibility.
 </p>
