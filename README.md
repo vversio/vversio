@@ -21,7 +21,7 @@
 </h1>
 
 <p align="center"> 
-  I am a <b>Computer Science</b> student at De La Salle University – Dasmariñas specializing in AI integration, data pipelines, and backend infrastructure. I focus on building self-healing ETL workflows, deploying local machine learning architectures, and turning complex data problems into streamlined, autonomous solutions.
+  I am a <b>Computer Science</b> student at De La Salle University – Dasmariñas specializing in AI integration, data pipelines, web  designs, and backend infrastructure. I focus on building/developing Web apps, ETL workflows, deploying n8n automation workflows, and turning complex data problems into streamlined, autonomous solutions while being able to integrated machine learning architectures.
 </p>
 
 ---
