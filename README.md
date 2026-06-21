@@ -73,15 +73,9 @@
 ---
 
 <h3 align="center">
-  🚀 What I'm Building
+  🚀 What I've Build
 </h3>
 
 - **[CS2 Quantitative Edge Pipeline]** - Architecting an autonomous ETL system using `n8n` and local LLMs (`Qwen 2.5`) to bypass anti-bot protections, parse unstructured data, and calculate true implied probabilities via `PostgreSQL` and `Streamlit`.
 - **[PocketPT]** - Training and optimizing computer vision models (`YOLOv11s` + `ResNet18`) with Knowledge Distillation and LSTMs for real-time biomechanical tracking and physical therapy assessment.
 - **[CineGrid]** - Building a performant, component-driven movie tracking application using `React`, `Tailwind`, and `Supabase`.
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panganibanfv&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
