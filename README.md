@@ -17,7 +17,7 @@
 ---
 
 <h1 align='center'>
-  Data & AI Engineer | Autonomous Systems Builder
+  Data & AI Engineer | Frontend Engineer | Autonomous Systems Builder
 </h1>
 
 <p align="center"> 
